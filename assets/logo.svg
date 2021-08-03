@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83.015" height="59.508" viewBox="0 0 83.015 59.508">
+  <defs>
+    <filter id="THEYALOW" x="21.776" y="0" width="36" height="12" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.42"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo_" data-name="logo " transform="translate(-88.761 -27.992)">
+    <g transform="matrix(1, 0, 0, 1, 88.76, 27.99)" filter="url(#THEYALOW)">
+      <text id="THEYALOW-2" data-name="THEYALOW" transform="translate(39.78 8)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI" letter-spacing="0.01em"><tspan x="-17.603" y="0">THEYALOW</tspan></text>
+    </g>
+    <path id="Shape_8_copy_4" data-name="Shape 8 copy 4" d="M19.678,41.977.885,42.065l7.668-5.622,18.795-.089.713,13.168-7.668,5.622Zm32.3,7.171L51.852,35.97l18.781-.5,8.019,5.377-18.781.5L60,54.524Zm-20.662-15.7-18.794.088,7.669-5.622,18.794-.089L39.7,40.989,32.03,46.611Zm8.492,7.544-.128-13.177,18.782-.5,8.019,5.376-18.781.5.126,13.177ZM12.17,22.457l18.781-.5L30.825,8.78l8.019,5.376.126,13.177-18.781.5Zm26.784-8.3,7.668-5.622L47.335,21.7l18.795-.088L58.46,27.234l-18.795.088ZM0,14.3l18.78-.5L18.654.62,26.673,6,26.8,19.174l-18.781.5ZM50.592,5.622,58.26,0l.714,13.167,18.794-.088L70.1,18.7,51.3,18.79Z" transform="translate(90.943 29.894)" fill="#f5c506" opacity="0.502"/>
+    <path id="Shape_8_copy_3" data-name="Shape 8 copy 3" d="M41.507,50.131l-13.5,9.377V51.555l13.5-9.377L55,51.555v7.953Zm0-12.071-13.5,9.377V39.484l13.5-9.377L55,39.484v7.953ZM71.92,39.428,58.839,29.755,71.92,20.08h11.1l-13.08,9.675,13.08,9.673Zm-16.839,0L42,29.755,55.081,20.08h11.1L53.1,29.755l13.08,9.673Zm-38.242,0L29.92,29.755,16.839,20.08h11.1l13.082,9.675L27.934,39.428ZM0,39.428l13.08-9.673L0,20.08H11.1l13.081,9.675L11.1,39.428Zm28.012-19.4V12.071l13.5,9.376L55,12.071v7.953L41.507,29.4Zm0-12.071V0l13.5,9.377L55,0V7.953l-13.5,9.377Z" transform="translate(88.761 27.992)" fill="#f5c506"/>
+  </g>
+</svg>
