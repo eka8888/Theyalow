@@ -157,7 +157,7 @@
         height: 62px;
         margin-left: 0rem;
         margin-top: 0rem;
-        background-color: #707070;
+        background-color: #575757;
         padding-top: 0.4rem;
         position: fixed;
     }
@@ -769,7 +769,7 @@
     }
     .part2video {
         background-color: #f6c506;
-        width: 332px;
+        width: 340px;
         height: 233px;
         margin-top: -0.6rem;
         display: flex;
@@ -778,7 +778,7 @@
         align-items: center;
     }
     .part2text {
-        width: 307px;
+        width: 300px;
         height: 233px;
         background-color: #f6c506;
         margin-top: -0.6rem;
